@@ -1,0 +1,33 @@
+html, body, div, h1{
+    margin: 0;
+    padding: 0;
+  }
+.header {
+    background-color: #e2ba40;
+    margin: 0 auto;
+    position: fixed;
+    z-index: 2;
+}
+h1 {
+    float: left;
+
+}
+.nav {
+    float: right;
+}
+.mainContent {
+    clear: both;
+    background-color: blue;
+}
+#dashboard {
+    border: 1px solid #e2ba40;
+}
+#budget {
+    border: 1px solid #e2ba40;
+}
+#checkbooks {
+    border: 1px solid #e2ba40;
+}
+money {
+    border: 1px solid #e2ba40;
+}
